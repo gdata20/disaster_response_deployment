@@ -2,6 +2,27 @@
 
 # Disaster Response Pipeline Project
 
+
+Introduction
+The project aim is to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
+A web app will be created for inputting a new message and get classification results in several categories.
+
+
+Folders
+Data
+Contains the original data set
+process_data.py is for preprocessing the original data for later modelling
+
+Model
+train_classier is for training the dataset and saving the model to a pickle file
+
+
+App
+Contain the files for creating the webapp
+
+
+
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
